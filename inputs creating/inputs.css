@@ -1,0 +1,32 @@
+
+
+.keepitup{
+    text-align: center;
+    text-transform: capitalize;
+    font-style: italic;
+    display: inline-flex;
+    list-style: none;
+    padding: 10px;
+    margin:20px;
+    background-color: rgb(169, 214, 241);
+    border-radius: 1em;
+}
+
+.layermame{
+    padding: 2em;
+    margin-right: 3em;
+    text-align: left;
+}
+.name_required{
+    background-color: #e1f185; 
+    text-transform: capitalize;
+    border: none;
+    color: white;
+    padding:.2em ;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1em;
+    font-style: italic;
+    border-radius: .5em;
+  }
